@@ -7,12 +7,12 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
-let newID = oldID + 1000000000
+newID = oldID + 1000000000
 
-let ageIsValid = currentAge.isInteger()
+ageIsValid = currentAge.isInteger()
 
-let randomNumber =
+randomNumber =
 
-let randomInteger = randomNumber.floor
+randomInteger = randomNumber.floor
 
-let randomUserID = randomInteger + 1000000000
+randomUserID = randomInteger + 1000000000
