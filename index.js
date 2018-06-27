@@ -10,3 +10,9 @@ You should NOT try to redefine any of the above variables.
 let newID = oldID + 1000000000
 
 let ageIsValid = currentAge
+
+let randomNumber = 
+
+let randomInteger = randomNumber.floor
+
+let randomUserID = randomInteger + 1000000000
